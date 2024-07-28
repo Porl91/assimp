@@ -13,6 +13,7 @@ build
 *.ncb
 *.vcproj
 *.vcxproj.user
+*.vcxproj.filters
 *.VC.db
 *.VC.db-shm
 *.VC.db-wal
@@ -20,6 +21,8 @@ build
 *.ipch
 .vs/
 out/
+bin/
+obj/
 CMakeSettings.json
 
 # Output
@@ -35,7 +38,6 @@ assimp.aps
 revision.h
 contrib/zlib/zconf.h
 contrib/zlib/zlib.pc
-include/assimp/config.h
 unit.vcxproj.user
 
 # CMake
