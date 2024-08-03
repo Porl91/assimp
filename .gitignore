@@ -54,6 +54,7 @@ code/Makefile
 test/Makefile
 test/headercheck/Makefile
 tools/assimp_cmd/Makefile
+*.make
 
 # Tests
 test/results
